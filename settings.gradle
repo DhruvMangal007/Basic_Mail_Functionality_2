@@ -1,0 +1,2 @@
+rootProject.name='Basic Mail Functionality 2'
+include ':app'
